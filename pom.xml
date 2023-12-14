@@ -267,10 +267,10 @@
           <version>3.1.2</version>
           <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>RediffTestCasestestng.xml</suiteXmlFile>
-            <suiteXmlFile>TNtestng.xml</suiteXmlFile>
+            
+           
             <suiteXmlFile>testng.xml</suiteXmlFile>
-            <suiteXmlFile>extentlistenertestng.xml</suiteXmlFile>
+            
           </suiteXmlFiles>
         </configuration>
         </plugin>
